@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **An Expense Tracking Webapp**
 
-- 🌱 I’m currently learning **ReactJs/Nextjs/Firebase/CSS/API's/CSS/Bootstrap**
+- 🌱 I’m currently learning **ReactJs/Nextjs/API's**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GarPav123](https://github.com/GarPav123)
 
