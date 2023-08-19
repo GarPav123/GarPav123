@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Garimella Pavan teja</h1>
 <h3 align="center">A passionate Developer and Programmer with an undying curiosity!</h3>
 
-- 🔭 I’m currently working on **An Expense Tracking Webapp**
 
 - 🌱 I’m currently learning **ReactJs/Nextjs/API's**
 
