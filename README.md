@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer and Programmer with an undying curiosity!</h3>
 
 
-- 🌱 I’m currently learning **ReactJs/Nextjs/API's**
+- 🌱 Frameworks/Technologies I use  **ReactJs/Nextjs/API's**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GarPav123](https://github.com/GarPav123)
 
