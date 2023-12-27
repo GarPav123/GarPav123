@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Developer and Programmer with an undying curiosity!</h3>
 
 
-- 🌱 Frameworks/Technologies I use  **ReactJs/Nextjs/API's**
+- 🌱 Frameworks/Technologies/Languages I use  **ReactJs/Nextjs/Typescript/TailwindCSS/Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GarPav123](https://github.com/GarPav123)
 
-- 💬 Ask me about **HTML/C/C++/Python/ReactJs/WebDevelopment/Data Structures and Algorithms**
+- 💬 Ask me about **Java/HTML/C/C++/Python/ReactJs/Web Development/Data Structures and Algorithms**
 
 - 📫 How to reach me **garimellapavanteja123@gmail.com**
 
