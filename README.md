@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I Shoot the basketball so well, they say I'm a Sniper!**
 
-- 📜 My Resume : https://drive.google.com/file/d/1fRIB_skpW9Kk4vdpLczqx2LPPv5_SMNo/view?usp=sharing
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
