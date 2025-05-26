@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Tech Lead Roles**
 
-- 👨‍💻 All of my projects are available at (dev.com)](https://devteja.netlify.app/)
+- 👨‍💻 All of my projects are available at [(Here)(https://devteja.netlify.app/)]
 
 - 💬 Ask me about **Full Stack Development and Deployment**
 
 - 📫 How to reach me **garimellpavanteja123@gmail.com**
 
-- 📄 Know about my experiences([dev.com](https://devteja.netlify.app/))
+- 📄 Know about my experiences([Here](https://devteja.netlify.app/))
 
 - ⚡ Fun fact **I'm a National Level Basketball Player**
 
