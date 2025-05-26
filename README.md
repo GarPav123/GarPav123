@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Tech Lead Roles**
 
-- 👨‍💻 All of my projects are available at [(Here)(https://devteja.netlify.app/)]
+- 👨‍💻 All of my projects are available at ((Here)(https://devteja.netlify.app/))
 
 - 💬 Ask me about **Full Stack Development and Deployment**
 
