@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pavan Teja</h1>
 <h3 align="center">An interactive and fun-loving Full Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garpav123" alt="garpav123" /></a> </p>
-
-- 🔭 I’m currently working on **My Startup**
-
-- 🌱 I’m currently learning **NLP and AI/ML**
-
 - 👯 I’m looking to collaborate on **Tech Lead Roles**
 
 - 👨‍💻 All of my projects are available at ([Here](https://devteja.netlify.app/))
-
-- 💬 Ask me about **Full Stack Development and Deployment**
 
 - 📫 How to reach me **garimellpavanteja123@gmail.com**
 
